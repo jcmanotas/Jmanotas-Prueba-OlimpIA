@@ -1,5 +1,8 @@
 [Regresar al Inicio](README.md)
 
+![PIPELINE DE DATOS](images/pipeline_data.png)
+
+
 ### 🔁 Flujo Integral del Pipeline de Datos en AWS
 El pipeline de datos es el corazón del ecosistema analítico. Su función es mover, transformar y asegurar los datos desde las fuentes originales hasta los sistemas que los convierten en conocimiento útil.
 

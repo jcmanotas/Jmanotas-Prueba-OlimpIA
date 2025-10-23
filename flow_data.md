@@ -1,5 +1,8 @@
 [Regresar al Inicio](README.md)
 
+![PROCESO DE MIGRACION](images/flow_process.jpg)
+
+
 # 🔄 Etapas del Flujo de Datos — De la Fuente al Valor
 Para el caso del enrolamiento ciudadano nuestro ecosistema de datos moderno, atraviesa un conjunto de etapas estructuradas que permiten descubrir, evaluar, migrar, planificar y optimizar su uso.
 

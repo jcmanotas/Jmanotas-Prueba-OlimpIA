@@ -3,6 +3,10 @@
 ### 📚 Diccionario de Datos — Plataforma de Enrolamiento Ciudadano
 Este diccionario describe las tablas principales del sistema, su propósito, componentes y cómo se relacionan entre sí. Está orientado a desarrolladores, analistas y arquitectos de datos.
 
+
+![PIPELINE DE DATOS](images/mer_db.jpg)
+
+
 ## 1️⃣ Tabla citizen — Ciudadanos
 **Propósito:**
 Almacenar la información biográfica de cada ciudadano que se registra en la plataforma. Sirve como la entidad central de identidad.
